@@ -1,0 +1,5 @@
+# Ignore all executable binary files
+*.exe
+*.out
+*.o
+*.obj
